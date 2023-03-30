@@ -25,6 +25,14 @@
   position: relative;
 }
 
+.format__item2 {
+  position: relative;
+}
+
+.format__item3 {
+  position: relative;
+}
+
 input[type="checkbox"] {
   display: none;
 }
