@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /https://timetotalk.ru/m-files-new.cdnvideo.ru/lpfile/c/0/4/c04431f565b259f5e4934d68ca25ca02/-/crop/0x0x1920x1072/-/resize/649/f.jpg
+Disallow: /https://timetotalk.ru/m-files-new.cdnvideo.ru/lpfile/c/e/9/ce9012126cb32f7a97dab334f750b7ee/-/crop/0x0x1920x1920/-/resize/539/f.png
+Disallow: /https://timetotalk.ru/regulation.html
+Disallow: /https://timetotalk.ru/consent.html
+Disallow: /https://timetotalk.ru/m-files-new.cdnvideo.ru/lpfile/7/0/f/70fc78e98f33c2bc4b4b181505b12127.svg
+Disallow: /https://timetotalk.ru/m-files-new.cdnvideo.ru/lpfile/3/5/2/352d9ca49c2320ed83a90bd937c1da4c.svg
+Disallow: /https://timetotalk.ru/m-files-new.cdnvideo.ru/lpfile/e/2/b/e2bdcc19ed7e97771b376948cba59646/-/crop/0x0x1920x1920/-/resize/73/f.png
+Disallow: /https://timetotalk.ru/m-files-new.cdnvideo.ru/lpfile/c/1/1/c111a89fa74d55bca3f2d23ea3f94d62/-/crop/0x0x1920x1069/-/resize/649/f.jpg
+Disallow: /https://timetotalk.ru/m-files-new.cdnvideo.ru/lpfile/f/a/8/fa891a4be4676058cce2a792657cede9/-/crop/0x0x500x500/-/resize/139/f.png
+Disallow: /https://timetotalk.ru/m-files-new.cdnvideo.ru/lpfile/3/d/2/3d233468380ecebbaa2d75fc057eccd1.svg
+Disallow: /https://timetotalk.ru/m-files-new.cdnvideo.ru/lpfile/2/1/5/2154de47e6ef8b563b47245a2a1c707b/-/crop/0x0x1920x1080/-/resize/557/f.jpg
+Disallow: /https://timetotalk.ru/m-files-new.cdnvideo.ru/lpfile/b/6/a/b6abc085b660ad799bef2b2dab83a5d3/-/crop/0x0x1920x1072/-/resize/696/f.jpg
+Disallow: /https://timetotalk.ru/m-files-new.cdnvideo.ru/lpfile/3/1/b/31b72a80a775bc7eb8344a41f0300c74.svg
+Disallow: /https://timetotalk.ru/m-files-new.cdnvideo.ru/lpfile/e/2/b/e2bdcc19ed7e97771b376948cba59646/-/crop/0x0x1920x1920/-/resize/82/f.png
+Disallow: /https://timetotalk.ru/m-files-new.cdnvideo.ru/lpfile/e/a/b/eab2f7775db05e2f32ee435ef46ec912.svg
+Disallow: /https://timetotalk.ru/articles.html
+Disallow: /https://timetotalk.ru/articles/article.html
+Disallow: /https://timetotalk.ru/articles/article.html
+
+
+Allow: /*.css
+Allow: /*.js
+Host: https://timetotalk.ru/
+Sitemap: https://cp-hosting.jino.ru/management/filemanager/edit/domains/timetotalk.ru/sitemap.xml
