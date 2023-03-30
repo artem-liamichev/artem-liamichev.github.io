@@ -33,6 +33,10 @@
   position: relative;
 }
 
+/* .talk__item .active {
+  position: relative;
+} */
+
 input[type="checkbox"] {
   display: none;
 }
@@ -75,7 +79,7 @@ input[type="checkbox"]:checked + label::after {
   height: 16px;
   border: 5px solid #f58282;
   border-radius: 50%rgb (245, 123, 123);
-  animation: circle 0.8s ease-out;
+  /* animation: circle 0.8s ease-out; */
   opacity: 0;
   top: 60px;
   left: -4px;
